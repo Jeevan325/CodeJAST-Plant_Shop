@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+#See the overview of the application on youtube
+https://www.youtube.com/watch?v=2JwpOE77AEg
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
